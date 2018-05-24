@@ -1,0 +1,11 @@
+{
+  "name": "backendutils",
+  "version": "1.0.0",
+  "description": "Backend Programs utilities to optimize, check , maintain our application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wembo mulumba",
+  "license": "ISC"
+}
